@@ -1,0 +1,20 @@
+.apresentacao__links__link {
+    border: 0.125rem solid var(--cor-terciaria);
+    border-radius: 0.5rem;
+    color: var(--cor-secundaria);
+    display: flex;
+    font-family: var(--fonte-secundaria);
+    font-size: 1.5rem;
+    font-weight: 600;
+    gap: 16px;
+    justify-content: center;
+    padding: 21.5px 0px;
+    text-align: center;
+    text-decoration: none;
+    width: 50%;
+}
+
+.apresentacao__links__link:hover {
+    background-color: var(--cor-hover);
+    padding: 5%;
+}

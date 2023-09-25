@@ -1,0 +1,11 @@
+.cabecalho {
+    padding: 2% 0 0 15%;
+}
+
+/* TABLET */
+
+@media (max-width: 1200px) {
+    .cabecalho {
+        padding: 10%;
+    }
+}

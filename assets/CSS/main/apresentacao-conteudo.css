@@ -1,0 +1,13 @@
+.apresentacao__conteudo {
+    text-align: justify;
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+    width: 50%;
+}
+
+@media (max-width: 1200px) {
+    .apresentacao__conteudo {
+        width: auto;
+    }
+}

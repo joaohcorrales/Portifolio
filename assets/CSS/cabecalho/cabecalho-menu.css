@@ -1,0 +1,12 @@
+.cabecalho__menu {
+    display: flex;
+    gap: 80px;
+}
+
+/* TABLET */
+
+@media (max-width: 1200px) {
+    .cabecalho__menu {
+        justify-content: center;
+    }
+}

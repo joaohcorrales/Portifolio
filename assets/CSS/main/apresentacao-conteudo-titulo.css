@@ -1,0 +1,8 @@
+.apresentacao__conteudo__titulo {
+    font-family: var(--fonte-primaria);
+    font-size: 2.25rem;
+}
+
+.titulo__forte {
+    color: var(--cor-terciaria);
+    }
