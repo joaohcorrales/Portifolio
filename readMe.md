@@ -1,6 +1,6 @@
 # MEU PORTIFOLIO! 😃
 
-![readMePortifolio](https://github.com/joaohcorrales/Portifolio/assets/90198535/7c68f753-0874-4128-a2cb-901f767b7892)
+![readMePortifolio](https://github.com/joaohcorrales/Portifolio/assets/90198535/210db880-cd50-4fcd-b6ad-a1f7dec4ee00)
 
 Projeto criado para por em prática os novos aprendizados de boas práticas e utilizar como portifolio.
 
