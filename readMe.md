@@ -35,7 +35,7 @@ Ele possui duas páginas que descrevem uma biografia profissional suscinta de mi
 
 ## 📁 Acesso ao projeto
 
-[Veja o projeto final em funcionamento]()
+[Veja o projeto final em funcionamento](https://portifolio-phi-rose.vercel.app/index.html)
 
 Neste repositório você tem acesso a todos os arquivos do projeto.
 
